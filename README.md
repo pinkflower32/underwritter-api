@@ -10,5 +10,5 @@
 6. onboarding api for underwritter
 7. fetch all borrwers
 8. fetch a borrwer profile
-9. genrate report from broower profile
+9. generate report from broower profile
 10. api for policuy creaton for underwritter
